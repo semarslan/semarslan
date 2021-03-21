@@ -1,11 +1,9 @@
 ### Hi, I'm [Sema!](https://github.com/semarslan) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" height="250">
+<img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ```Computer Engineer``` 
-
 <br>
-
 ```Full Stack Developer```
 
 <br>
@@ -14,5 +12,5 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
-<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100" height="100">
+<br><br>
+<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150" height="100">
