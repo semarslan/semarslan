@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=semarslan&hide_border=true&hide_rank=false&show_icons=true&theme=radical">
+![Sema ARSLAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=semarslan&show_icons=true&theme=radical)
 
 ### Hi there 👋
 
