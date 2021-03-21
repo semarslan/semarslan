@@ -6,9 +6,8 @@
 ```Computer Engineer``` 
 <br>
 ```Full Stack Developer```
+<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="130">
 <br>
-<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
-<br><br>
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
