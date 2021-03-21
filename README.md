@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Sema!](https://github.com/semarslan) 👋
 
-### I'm a full stack developer
+### Full Stack Developer
 
 
 
