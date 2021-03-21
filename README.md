@@ -1,8 +1,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=semarslan&hide_border=true&hide_rank=false&hide=stars,issues,contribs&show_icons=true&theme=tokyonight" height="130">
 
 
-### Hi there, I'm [Sema!](https://github.com/semarslan) 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm [Sema!](https://github.com/semarslan) :cherry_blossom:
 
+👩‍💻
+<br>
 ```Computer Engineer``` 
 <br>
 ```Full Stack Developer```
