@@ -1,4 +1,4 @@
-### Hi there, I'm [Sema!](https://github.com/semarslan)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi, I'm [Sema!](https://github.com/semarslan) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ```Computer Engineer``` 
 <br>
