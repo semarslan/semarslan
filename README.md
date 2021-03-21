@@ -6,6 +6,7 @@
 ```Computer Engineer``` 
 <br>
 ```Full Stack Developer```
+<br>
 <img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="130">
 <br>
 
