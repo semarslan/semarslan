@@ -1,12 +1,13 @@
 ### Hi, I'm [Sema!](https://github.com/semarslan) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" width="230">
 
 
 ```Computer Engineer``` 
 <br>
 ```Full Stack Developer```
-
+<br>
+<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
 <br><br>
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
