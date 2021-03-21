@@ -1,5 +1,5 @@
 
-<img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" style="border-radius:%50">
 
 
 ### Hi, I'm [Sema!](https://github.com/semarslan) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
