@@ -3,7 +3,7 @@
 
 ### Hi there, I'm [Sema!](https://github.com/semarslan) 👋
 
-```Full Stack Developer```
+```Computer Enginner & Full Stack Developer```
 
 <br><br>
 
