@@ -4,6 +4,7 @@
 ### Hi there, I'm [Sema!](https://github.com/semarslan) 👋
 
 ```Computer Engineer``` 
+<br>
 ```Full Stack Developer```
 
 <br><br>
