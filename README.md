@@ -2,11 +2,11 @@
 
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/source.gif" width="250" height="250">
 
+<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100" height="100">
 ```Computer Engineer``` 
 <br>
 ```Full Stack Developer```
-<br>
-<img align='left' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100" height="100">
+
 <br>
 <br>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
