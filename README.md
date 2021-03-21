@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=semarslan&hide_border=true&hide_rank=false&hide=stars,issues,contribs&show_icons=true&theme=tokyonight">
 
-## Hi there, I'm [Sema!](https://github.com/semarslan) 👋  
-### I'm a full stack developer
+### Hi there, I'm [Sema!](https://github.com/semarslan) 👋  
+### Full Stack Developer
  ---------------
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
