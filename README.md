@@ -1,4 +1,4 @@
-![Sema ARSLAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=semarslan&show_icons=true&theme=radical)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mehmetpekdemir&hide_border=true&hide=stars=false&hide_rank=false&show_icons=true&theme=dracula">
 
 ### Hi there 👋
 
