@@ -1,7 +1,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
 
-### Hi, I'm [Sema!](https://github.com/semarslan)<img src="https://media.giphy.com/media/VaqJoSUq0wzWMcgA2M/giphy.gif" width="50">
+### Hi, I'm [Sema!](https://github.com/semarslan)<img src="https://media.giphy.com/media/w1pwl0F67JHGFLseNk/giphy.gif" width="50">
 
 ```Computer Engineer``` 
 <br>
