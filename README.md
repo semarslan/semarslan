@@ -1,6 +1,4 @@
 
-<img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="250">
-
 ### Hi, I'm [Sema!](https://github.com/semarslan)<img src="https://media.giphy.com/media/8cxI9wG0M0dqLweyeH/giphy.gif" width="30">
 
 ```Computer Engineer``` 
